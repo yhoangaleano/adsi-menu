@@ -1,0 +1,8 @@
+{
+  "name": "adsi",
+  "app_id": "09f75925",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
